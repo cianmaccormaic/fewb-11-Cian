@@ -1,0 +1,24 @@
+/* this is one way to change html style,
+this way is from selectors from css file */
+nav {
+  background-color: aliceblue;
+  padding: 10px;
+}
+nav ul li a {
+  color: black;
+}
+
+.classOne {
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.classTwo {
+  color: blue;
+}
+
+.cian {
+  font-size: xx-large;
+}

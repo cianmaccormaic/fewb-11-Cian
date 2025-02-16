@@ -1,0 +1,8 @@
+/* Apply the backround color and the text color */
+body {
+  background-color: #eaeaea;
+  color: #000033;
+  font-family: Arial, sans-serif; /* Optional: specify a font */
+  margin: 0;
+  padding: 0;
+}

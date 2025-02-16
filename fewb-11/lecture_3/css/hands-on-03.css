@@ -1,0 +1,16 @@
+/* Write the CSS code for an external style sheet that configures the text to be brown, 1.2em in size, and in Arial, Verdana, or a sans-serif font. */
+
+body {
+  background-color: lightgrey !important;
+  color: brown !important;
+  font-size: 1.2em;
+  font-family: Arial;
+}
+header {
+  background-color: #e09696;
+  color: #000066;
+}
+footer {
+  font-size: 80%;
+  font-style: bold;
+}
